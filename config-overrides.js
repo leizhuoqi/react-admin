@@ -11,6 +11,6 @@ module.exports = override(
     }),
     addLessLoader({
         javascriptEnabled: true,
-        modifyVars: { '@primary-color': '#ddf0ed' },
+        modifyVars: { '@primary-color': '#1da57a' },
     }),
 );
